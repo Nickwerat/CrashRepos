@@ -64,20 +64,5 @@ public class Main {
 
     double full = ph1+ph2+ph3;
     System.out.println("And the cost of all calls is: " + full + " uah");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
